@@ -4,7 +4,7 @@
 ---
 
 ## TL;DR
-This repository is my public sandbox for selected solutions to statistical problems, financial analysis notebooks, and data-sourcing utilities, developed for coursework and research in economics and quantitative finance.
+This repository is my public sandbox for selected solutions to statistical problems, academic works, financial analysis, and data-sourcing utilities, developed for coursework and research in economics and quantitative finance.
 ---
 
 > **Development Environment:**  
